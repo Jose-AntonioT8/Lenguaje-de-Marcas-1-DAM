@@ -1,0 +1,39 @@
+body {
+    background-color: #eeeeee;
+    color: black;
+    text-align: justify;
+    font-family: sans-serif;
+}
+h2 {
+    background-color: #888888;
+    color: red;
+    font-size: 150%;
+    text-transform: uppercase;
+}
+p {
+    background-color: #cccccc;
+    line-height: 150%;
+}
+.em {
+    color: blue;
+    font-style: normal;
+    text-decoration: underline;
+}
+.em2{
+    color: blue;
+    font-style: normal;
+    text-decoration: underline;
+}
+.el2{
+    color: green;              
+    font-style: normal;      
+}
+.subtitlosaptitudes{
+    background-color: #888888; 
+    color:rgb(148, 68, 148);
+    font-size: 130%; 
+}
+.el3{
+    color: green;              
+    font-style: normal;      
+}
